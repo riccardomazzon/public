@@ -1,1 +1,3 @@
 # CORSMAL
+
+Repository for public data/results/presentations...
